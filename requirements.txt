@@ -37,6 +37,9 @@ scipy
 statsmodels
 pandas
 
+# Library to open excel files
+openpyxl
+
 # Machine Learning and Computer-Vision
 scikit-learn
 scikit-image
